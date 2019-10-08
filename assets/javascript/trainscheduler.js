@@ -21,6 +21,11 @@
             apiKey: "AIzaSyBgMzkHqCdn3XE65lJMuSBe3JtR9IRF5l8",
             authDomain: "train-scheduler-a5064.firebaseapp.com",
             databaseURL: "https://train-scheduler-a5064.firebaseio.com",
+            projectId: "train-scheduler-a5064",
+            storageBucket: "",
+            messagingSenderId: "521305575486",
+            appId: "1:521305575486:web:cf9c241ce329206612c16f",
+            measurementId: "G-5PBQY8T0QT"
           };
   
           firebase.initializeApp(config);
